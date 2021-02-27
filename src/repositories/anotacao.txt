@@ -1,0 +1,1 @@
+pasta onde podem ser implementados metodos que o type orm não possui, como por exemplo, procurar por uma data específica.
